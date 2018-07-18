@@ -1,2 +1,2 @@
 # sqlzoo
-Answers to the sqlzoo SELECT-in-SELECT quiz
+Here is the answers to sql quizzes
